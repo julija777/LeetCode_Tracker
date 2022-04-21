@@ -1,2 +1,2 @@
 # LeetCode_Tracker
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Collection of LeetCode commits - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
